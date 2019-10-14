@@ -1,0 +1,14 @@
+\\STHQ01DC01\dfr$\Bxsi_nlu2\Desktop\BabatShopMVP\ShopMVP\obj\Debug\ShopMVP.csprojAssemblyReference.cache
+\\STHQ01DC01\dfr$\Bxsi_nlu2\Desktop\BabatShopMVP\ShopMVP\obj\Debug\ShopMVP.Properties.Resources.resources
+\\STHQ01DC01\dfr$\Bxsi_nlu2\Desktop\BabatShopMVP\ShopMVP\obj\Debug\ShopMVP.Views.ProductForm.resources
+\\STHQ01DC01\dfr$\Bxsi_nlu2\Desktop\BabatShopMVP\ShopMVP\obj\Debug\ShopMVP.Views.ShopForm.resources
+\\STHQ01DC01\dfr$\Bxsi_nlu2\Desktop\BabatShopMVP\ShopMVP\obj\Debug\ShopMVP.csproj.GenerateResource.cache
+\\STHQ01DC01\dfr$\Bxsi_nlu2\Desktop\BabatShopMVP\ShopMVP\obj\Debug\ShopMVP.csproj.CoreCompileInputs.cache
+\\STHQ01DC01\dfr$\Bxsi_nlu2\Desktop\BabatShopMVP\ShopMVP\bin\Debug\ShopMVP.exe.config
+\\STHQ01DC01\dfr$\Bxsi_nlu2\Desktop\BabatShopMVP\ShopMVP\bin\Debug\ShopMVP.exe
+\\STHQ01DC01\dfr$\Bxsi_nlu2\Desktop\BabatShopMVP\ShopMVP\bin\Debug\ShopMVP.pdb
+\\STHQ01DC01\dfr$\Bxsi_nlu2\Desktop\BabatShopMVP\ShopMVP\bin\Debug\Autofac.dll
+\\STHQ01DC01\dfr$\Bxsi_nlu2\Desktop\BabatShopMVP\ShopMVP\bin\Debug\Autofac.xml
+\\STHQ01DC01\dfr$\Bxsi_nlu2\Desktop\BabatShopMVP\ShopMVP\obj\Debug\ShopMVP.csproj.CopyComplete
+\\STHQ01DC01\dfr$\Bxsi_nlu2\Desktop\BabatShopMVP\ShopMVP\obj\Debug\ShopMVP.exe
+\\STHQ01DC01\dfr$\Bxsi_nlu2\Desktop\BabatShopMVP\ShopMVP\obj\Debug\ShopMVP.pdb
